@@ -1,0 +1,18 @@
+{
+  "workbench.colorTheme": "你自己的主题",
+  "workbench.colorCustomizations": {
+      "sideBar.border": "#0004ff",
+      "tab.border": "#0004ff",
+      "tab.activeBorder": "#8A2BE2",
+      "editorBracketMatch.border": "#eeeed1",
+      "terminal.border": "#0004ff",
+      "editorHoverWidget.border": "#b5b5b5",
+      "editor.lineHighlightBorder": "#eeeed1",
+      "editor.selectionHighlightBorder": "#0004ff",
+      "editor.selectionHighlightBackground": "#0004ff00",
+      "editor.wordHighlightBorder": "#0004ff",
+      "editor.wordHighlightBackground": "#0004ff00",
+      "editor.findMatchHighlightBorder": "#00ff9d"
+  },
+  "editor.tabSize": 2
+}

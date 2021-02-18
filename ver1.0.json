@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#edd1d85c",
+    "editor.selectionForeground": "#eee1d8",
+    "editor.findMatchBackground": "#edd1d85c",
+    "editor.selectionHighlightBackground": "#00000000",
+    "editor.selectionHighlightBorder": "#0066ff",
+    "editor.findMatchHighlightBackground": "#00000000",
+    "editor.findMatchHighlightBorder": "#edd1d85c",
+    "editor.wordHighlightBackground": "#00000000",
+    "editorBracketMatch.border": "#edd1d8",
+    "sideBar.border": "#0066ff",
+    "tab.border": "#0066ff",
+    "tab.activeBorder": "#ff2d51",
+    "dropdown.border": "#0066ff",
+    "input.border": "#ff2d51",
+    "editor.lineHighlightBorder": "#edd1d8"
+  },
+  "workbench.colorTheme": "Noctis High Contrast No Italic No Bold"
+}
