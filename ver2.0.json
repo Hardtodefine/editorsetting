@@ -12,7 +12,8 @@
       "editor.selectionHighlightBackground": "#0004ff00",
       "editor.wordHighlightBorder": "#0004ff",
       "editor.wordHighlightBackground": "#0004ff00",
-      "editor.findMatchHighlightBorder": "#00ff9d"
+      "editor.findMatchHighlightBorder": "#00ff9d",
+      "editor.findMatchBorder": "#eeeed1"
   },
   "editor.tabSize": 2
 }
